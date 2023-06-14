@@ -1,0 +1,7 @@
+pip install TikTokLive
+pip install TikTokLive --upgrade
+pip install tk
+pip install Pillow
+pip install pygame
+## run the script
+python addoTik.py
